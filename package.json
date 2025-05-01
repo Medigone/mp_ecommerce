@@ -1,0 +1,15 @@
+{
+  "name": "mp_ecommerce",
+  "version": "1.0.0",
+  "description": "MP E-Commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cd mp && yarn install",
+    "dev": "cd mp && yarn dev",
+    "build": "cd mp && yarn build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
